@@ -177,4 +177,9 @@ Return:
     ModelStatistics object
             See torchinfo/model_statistics.py for more information.
 """
+
+### Reference
+
+- [x] https://github.com/TylerYep/torchinfo
+- [x] https://github.com/Lyken17/pytorch-OpCounter
 ```
